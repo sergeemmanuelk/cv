@@ -6,21 +6,12 @@ on:
 
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x, 16.x, 18.x]
+        node-version: [18.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -39,7 +30,7 @@ jobs:
     - run: npx resumed render resume.json --theme jsonresume-theme-mooser
     - run: mkdir public
     - run: mv resume.html public/index.html
-    
+
     - name: Deploy to Github Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
