@@ -28,7 +28,7 @@ jobs:
     - run: mv resume.html public/index.html
 
     - name: Deploy to Github Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: actions/deploy-pages@v2
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
