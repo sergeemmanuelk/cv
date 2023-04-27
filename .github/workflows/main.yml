@@ -17,6 +17,10 @@ concurrency:
 
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
 
     steps:
@@ -36,8 +40,13 @@ jobs:
     - run: mkdir public
     - run: mv resume.html public/index.html
 
-    - name: Deploy to Github Pages
-      uses: actions/deploy-pages@v2
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        # Upload entire repository
+        path: './public'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
