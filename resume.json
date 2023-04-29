@@ -106,9 +106,11 @@
       "name": "Frontend",
       "level": "",
       "keywords": [
-        "HTML / CSS",
-        "JavaScript / TypeScript",
+        "HTML",
+        "CSS",
         "Bootstrap",
+        "JavaScript",
+        "TypeScript",
         "Angular"
       ]
     },
@@ -116,11 +118,12 @@
       "name": "Backend",
       "level": "",
       "keywords": [
-        "Java / Spring Boot",
+        "Java",
+        "PHP",
+        "Spring Boot",
+        "Laravel",
         "PostgreSQL",
-        "MySQL",
-        "PHP / Laravel"
-        
+        "MySQL"
       ]
     },
     {
