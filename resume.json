@@ -60,16 +60,27 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
+      "institution": "Developers.Institute",
+      "url": "https://developers.institute/",
+      "area": "Java - Angular",
+      "studyType": "Intensive Full Stack Coding Bootcamp",
+      "startDate": "2022-12",
+      "endDate": "2023-03",
+      "score": "",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        ""
+      ]
+    },
+    {
+      "institution": "Pigier Côte d'Ivoire",
+      "url": "https://www.pigierci.com/",
+      "area": "Réseaux et Génie Logiciel",
+      "studyType": "Licence Professionnelle",
+      "startDate": "2014-10",
+      "endDate": "2017-06",
+      "score": "",
+      "courses": [
+        ""
       ]
     }
   ],
