@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "KONAN Kouamé Serge Emmanuel",
-    "label": "Développeur Full Stack Java / Angular",
+    "label": "Développeur Full Stack (Java / Angular)",
     "image": "",
     "email": "serge_em@outlook.fr",
     "phone": "+225 07 08 92 90 68",
@@ -60,24 +60,24 @@
   ],
   "education": [
     {
-      "institution": "Pigier Côte d'Ivoire",
-      "url": "https://www.pigierci.com/",
+      "institution": "Developers.Institute",
+      "url": "https://developers.institute/",
       "area": "",
-      "studyType": "Licence Professionnelle Réseaux et Génie Logiciel",
-      "startDate": "2014-10",
-      "endDate": "2017-06",
+      "studyType": "Intensive Full Stack Coding Bootcamp Java - Angular",
+      "startDate": "2022-12-19",
+      "endDate": "2023-03-24",
       "score": "",
       "courses": [
         ""
       ]
     },
     {
-      "institution": "Developers.Institute",
-      "url": "https://developers.institute/",
+      "institution": "Pigier Côte d'Ivoire",
+      "url": "https://www.pigierci.com/",
       "area": "",
-      "studyType": "Intensive Full Stack Coding Bootcamp Java - Angular",
-      "startDate": "2022-12",
-      "endDate": "2023-03",
+      "studyType": "Licence Professionnelle Réseaux et Génie Logiciel",
+      "startDate": "2014-10",
+      "endDate": "2017-06",
       "score": "",
       "courses": [
         ""
@@ -103,28 +103,44 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Frontend",
+      "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "HTML / CSS",
+        "Bootstrap",
+        "JavaScript / TypeScript",
+        "Angular"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Backend",
+      "level": "",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Java / Spring Boot",
+        "PHP / Laravel",
+        "PostgreSQL",
+        "MySQL"
+        
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Junior",
+      "keywords": [
+        "Git",
+        "Docker",
+        "Jenkins"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermédiaire"
     }
   ],
   "interests": [
