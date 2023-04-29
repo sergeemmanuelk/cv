@@ -107,8 +107,8 @@
       "level": "",
       "keywords": [
         "HTML / CSS",
-        "Bootstrap",
         "JavaScript / TypeScript",
+        "Bootstrap",
         "Angular"
       ]
     },
@@ -117,9 +117,9 @@
       "level": "",
       "keywords": [
         "Java / Spring Boot",
-        "PHP / Laravel",
         "PostgreSQL",
-        "MySQL"
+        "MySQL",
+        "PHP / Laravel"
         
       ]
     },
