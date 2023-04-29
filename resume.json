@@ -60,24 +60,24 @@
   ],
   "education": [
     {
-      "institution": "Developers.Institute",
-      "url": "https://developers.institute/",
-      "area": "",
-      "studyType": "Intensive Full Stack Coding Bootcamp Java - Angular",
-      "startDate": "2022-12",
-      "endDate": "2023-03",
-      "score": "",
-      "courses": [
-        ""
-      ]
-    },
-    {
       "institution": "Pigier Côte d'Ivoire",
       "url": "https://www.pigierci.com/",
       "area": "",
       "studyType": "Licence Professionnelle Réseaux et Génie Logiciel",
       "startDate": "2014-10",
       "endDate": "2017-06",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Developers.Institute",
+      "url": "https://developers.institute/",
+      "area": "",
+      "studyType": "Intensive Full Stack Coding Bootcamp Java - Angular",
+      "startDate": "2022-12",
+      "endDate": "2023-03",
       "score": "",
       "courses": [
         ""
