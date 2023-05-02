@@ -6,8 +6,8 @@
     "image": "",
     "email": "serge_em@outlook.fr",
     "phone": "+225 07 08 92 90 68",
-    "url": "",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "url": "https://sergeemmanuelk.github.io/portfolio/",
+    "summary": "Je suis un développeur full stack capable de travailler sur tous les aspects d'un projet, de la conception initiale à la mise en production. J'apprecie la communication et la collaboration. Je m'adapte facilement lors de la recherche de nouveaux rôles.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,31 +30,61 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Atos",
+      "location": "Abidjan, CI",
+      "description": "Atos Digital Academy",
+      "position": "Apprenant Développeur Full Stack Java / Angular",
+      "url": "https://atos.net/fr/ivory-coast",
+      "startDate": "2022-12-12",
+      "endDate": "2023-03-11",
+      "summary": "Programme de formation Développeur Full Stack SoftSkills & Hard Skills (Java / Angular), ",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Mise en place d’un système de suivi de bugs, de gestion des incidents et de gestions de projets (Hackathon)",
+        "Mise en place d'une plateforme de demande d’acte de naissance et décès en ligne (Projet final)"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "name": "Brassivoire",
+      "location": "Abidjan, CI",
+      "description": "",
+      "position": "Business Application Support",
+      "url": "https://brassivoire.ci/",
+      "startDate": "2021-05-01",
+      "endDate": "2022-05-01",
+      "summary": "Stage de perfectionnement",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Suivre et déployer des applications métiers utilisées par les commerciaux",
+        "Gérer les applications digitales",
+        "Suivre à travers un rapport hebdomadaire des tickets relatifs aux incidents liés aux applications métiers et de l'ERP (Microsoft Dynamics Nav / Dynamics 365 Business Central)",
+        "Apporter un support technique et une assistance aux utilisateurs",
+        "Rédaction des procédures et documentations pour les utilisateurs",
+        "Gérer le parc informatique et téléphonique"
+      ]
+    },
+    {
+      "name": "Comfordev",
+      "location": "Abidjan, CI",
+      "description": "",
+      "position": "Développeur web",
+      "url": "https://comfordev.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2020-11-01",
+      "summary": "",
+      "highlights": [
+        "Conception et développement de sites web"
+      ]
+    },
+    {
+      "name": "Aguima Web Agency",
+      "location": "Abidjan, CI",
+      "description": "",
+      "position": "Développeur web",
+      "url": "https://aguimawebagency.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-07-01",
+      "summary": "",
+      "highlights": [
+        "Conception et développement d'application web"
       ]
     }
   ],
@@ -82,23 +112,32 @@
       "courses": [
         ""
       ]
+    },
+    {
+      "institution": "Lycée Municipal Simone Ehivet Gbagbo",
+      "url": "",
+      "area": "",
+      "studyType": "Baccalauréat Série D",
+      "startDate": "2013-10",
+      "endDate": "2014-07",
+      "score": "",
+      "courses": [
+        ""
+      ]
     }
   ],
-  "awards": [
+  "certificates": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "name": "Certificate of completion : Full Stack Coding Bootcamp Java - Angular - Full time",
+      "date": "2023-03-24",
+      "url": "https://bit.ly/3ng1zyH",
+      "issuer": "Developers.Institute"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Attestation de formation : SoftSkills & Hard Skills (Java / Angular)",
+      "date": "2023-03-24",
+      "url": "https://bit.ly/44idpsH",
+      "issuer": "Atos Digital Academy (Atos)"
     }
   ],
   "skills": [
@@ -148,42 +187,11 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Sports",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Tennis",
+        "Basketball"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
     }
   ],
   "meta": {
